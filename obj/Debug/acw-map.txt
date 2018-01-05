@@ -1,0 +1,4 @@
+Dharamshala.MainActivity, Dharamshala;md519c0774f06e6bc02ca395c7b02075ce2.MainActivity
+Dharamshala.MainActivity, Dharamshala, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md519c0774f06e6bc02ca395c7b02075ce2.MainActivity
+Dharamshala.MainActivity;md519c0774f06e6bc02ca395c7b02075ce2.MainActivity
+dharamshala.MainActivity;md519c0774f06e6bc02ca395c7b02075ce2.MainActivity
